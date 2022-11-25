@@ -1,4 +1,4 @@
-<img src="https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/ChemaDvp2.png" title="" alt="ChemaDvp2.png" data-align="center">
+![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/ChemaDvp2.png)
 
 ### Hola Mundo :wave:, Yo soy Chema :computer:
 
