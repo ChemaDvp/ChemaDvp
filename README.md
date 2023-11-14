@@ -30,8 +30,10 @@
 
 - CSS
 
-- MySQL
+- SQL
 
+- C#
+  
 ---
 
 ###### Contacto:
