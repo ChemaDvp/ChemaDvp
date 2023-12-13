@@ -22,7 +22,7 @@
 
 ---
 
-### Actualmente estoy aprendiendo estos lenguajes: :pencil:
+### Actualmente estoy aprendiendo estos lenguajes:
 
 - Java
 
