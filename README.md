@@ -47,6 +47,5 @@
 - Instagram: https://www.instagram.com/chemamartinezdj/
 - linkedin: https://www.linkedin.com/in/jose-manuel-mart%C3%ADnez-palacios-527147191/
 - Twitter: https://twitter.com/ChemamartinezDj
-- 
 
 ---
