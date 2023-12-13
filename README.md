@@ -23,6 +23,8 @@
 ---
 
 ### some tecnologies I use 🎯 :
+#### 🖥️ DATABASE 🔝
+- ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 - Java
 
@@ -31,7 +33,7 @@
 - CSS
 - https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 
-- ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -51,9 +53,11 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-###### Contacto:
+###### 📱 Contacto 🔝 :
 
-- :email: - chemamartineztkd@gmail.com
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - chemamartineztkd@gmail.com
+- ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 - Instagram: https://www.instagram.com/chemamartinezdj/
 - linkedin: https://www.linkedin.com/in/jose-manuel-mart%C3%ADnez-palacios-527147191/
 - Twitter: https://twitter.com/ChemamartinezDj
