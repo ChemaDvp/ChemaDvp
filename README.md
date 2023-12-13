@@ -1,18 +1,18 @@
 ![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/ChemaDvp2.png)
 
-### Hola Mundo :wave:, Yo soy Chema :computer:
+### Hola Mundo 👋, Yo soy Chema:
 
 ***
 
 * Tengo 26 años, vivo en Lebrija (Sevilla, Andalucía)
 
-* Soy estudiante de Desarrollo de Software :computer: 
+* Soy estudiante de Desarrollo de Software 💻
 
 * Tengo el Grado Medio en Sistemas Microinformáticos y Redes.
 
 * Aficiones
   
-  * Piloto de Drones
+  * Piloto de Drones ✈️
     
     * Titulo A-1 piloto
     
