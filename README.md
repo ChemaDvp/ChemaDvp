@@ -33,7 +33,12 @@
 - SQL
 
 - C#
+
+- .Net
   
+- Unity
+
+- Android
 ---
 
 ###### Contacto:
