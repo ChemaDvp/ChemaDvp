@@ -7,18 +7,18 @@
 
 * Tengo 26 años, vivo en Lebrija (Sevilla, Andalucía)
 
-* Soy estudiante de Desarrollo de Software 💻
+* Soy estudiante de Desarrollo de Aplicaciones Multiplataforma
+  * Fundación Vedruna (Sevilla)
 
-* Tengo el Grado Medio en Sistemas Microinformáticos y Redes.
+##### TITULACION 📑
+* Grado Superior en Sonido para Audiovisuales y Espectáculos
 
-* Aficiones
-  
+* Grado Medio en Sistemas Microinformáticos y Redes.
+
+* Extra:
   * Piloto de Drones ✈️
-    
     * Titulo A-1 piloto
-    
     * Certificado Operador de vuelo
-  
   * Impresion 3D
 
 ---
