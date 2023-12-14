@@ -1,4 +1,4 @@
-![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA4.jpg){width=40%}
+![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA4.jpg) {width=250px height=250px}
 
 
 
