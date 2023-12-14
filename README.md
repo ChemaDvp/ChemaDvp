@@ -19,7 +19,6 @@
   * Piloto de Drones ✈️
     * Titulo A-1 piloto
     * Certificado Operador de vuelo
-  * Impresion 3D
 
 ---
 
