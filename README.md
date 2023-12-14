@@ -1,4 +1,4 @@
-![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/ChemaDvp2.png)
+![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA.jpg)
 
 ### Hola Mundo 👋, Yo soy Chema:
 
