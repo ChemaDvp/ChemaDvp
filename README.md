@@ -1,8 +1,3 @@
-![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA1.jpg)
-![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA2.jpg)
-![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA3.jpg)
-![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA4.jpg)
-![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA5.jpg)
 ![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIa6.jpg)
 
 
