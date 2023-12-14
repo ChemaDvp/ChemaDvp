@@ -1,4 +1,6 @@
-![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA4.jpg)
+![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA4.jpg){width=40%}
+![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIA4.jpg){height=250px}
+
 
 ### Hola Mundo 👋, Yo soy Chema:
 
