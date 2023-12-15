@@ -1,8 +1,8 @@
 ![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIa6.jpg)
 
 
-### Hola Mundo 👋, Yo soy Chema: <img alt="followers" src="https://img.shields.io/github/followers/ChemaDvp?label=Followers&style=social">
-
+### Hola Mundo 👋, Yo soy Chema:
+ <img alt="followers" src="https://img.shields.io/github/followers/ChemaDvp?label=Followers&style=social">
 ***
 
 * Tengo 26 años, vivo en Lebrija (Sevilla, Andalucía)
