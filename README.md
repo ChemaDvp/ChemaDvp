@@ -19,7 +19,8 @@
   * Piloto de Drones ✈️
     * Titulo A-1 piloto
     * Certificado Operador de vuelo
-
+      
+<img alt="followers" src="https://img.shields.io/github/followers/ChemaDvp?label=Followers&style=social">
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChemaDvp&show_icons=true&theme=tokyonight)
 
