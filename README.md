@@ -20,7 +20,6 @@
     * Titulo A-1 piloto
     * Certificado Operador de vuelo
       
-<img alt="followers" src="https://img.shields.io/github/followers/ChemaDvp?label=Followers&style=social">
 ---
 
 ### 👩‍💻 Some tecnologies I use 🎯 :
@@ -48,7 +47,7 @@
 
 
 ##### 🔝 SOCIAL :atom:
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <img alt="followers" src="https://img.shields.io/github/followers/ChemaDvp?label=Followers&style=social">
 ---
 
 ###### 📱 CONTACT 📧 :
