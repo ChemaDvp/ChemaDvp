@@ -1,5 +1,15 @@
 ![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIa6.jpg)
 
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><a href="https://git.io/typing-svg">
+    &nbsp
+    &nbsp
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&vCenter=true&repeat=false&width=300&height=20&lines=Hi+%2C+I'm+Jos%C3%A9+Moreno+and" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=250&height=20&lines=I%60m+Frontend+Develop;I%C2%B4m+3D+Designer" alt="Typing SVG" /></a>
+</p>
+
+---
 
 ### Hola Mundo 👋, Yo soy Chema:
  <a href="https://www.linkedin.com/in/jose-manuel-martínez-palacios-527147191//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/chemamartinezdj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <img alt="followers" src="https://img.shields.io/github/followers/ChemaDvp?label=Followers&style=social">
