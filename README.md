@@ -21,6 +21,8 @@
     * Certificado Operador de vuelo
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChemaDvp&show_icons=true&theme=tokyonight)
+
 
 ### 👩‍💻 Some tecnologies I use 🎯 :
 ##### 🔝 DATABASE 📂
@@ -58,7 +60,5 @@
 - ![Twitter:](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ChemamartinezDj
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChemaDvp&show_icons=true&theme=tokyonight)
 
 <img src="https://myreadme.vercel.app/api/embed/ChemaDvp?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
