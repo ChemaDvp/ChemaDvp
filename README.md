@@ -1,7 +1,7 @@
 ![https://github.com/ChemaDvp](https://github.com/ChemaDvp/ChemaDvp/blob/main/Media/chemaDvpIa6.jpg)
 
 
-### Hola Mundo 👋, Yo soy Chema:
+### Hola Mundo 👋, Yo soy Chema: <img alt="followers" src="https://img.shields.io/github/followers/ChemaDvp?label=Followers&style=social">
 
 ***
 
@@ -47,7 +47,7 @@
 
 
 ##### 🔝 SOCIAL :atom:
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <img alt="followers" src="https://img.shields.io/github/followers/ChemaDvp?label=Followers&style=social">
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ---
 
 ###### 📱 CONTACT 📧 :
@@ -61,6 +61,7 @@
 <a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/chemamartinezdj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://dev.to/dhanushkadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
 ---
 
 <img src="https://myreadme.vercel.app/api/embed/ChemaDvp?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
